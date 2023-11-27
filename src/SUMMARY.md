@@ -25,6 +25,7 @@
 - [Embed](advanced/embed.md)
 - [Init方法](advanced/init.md)
 - [Reflection](advanced/reflection.md)
+- [Expvar](advanced/expvar.md)
 
 
 # 标准库
@@ -40,8 +41,11 @@
 - [基准测试](testing/benchmarking.md)
 - [文档化代码](documentation/documenting-code.md)
 
-# 工具和框架
+# 扩展知识
+- [内存优化](extend/mem-free.md)
+- [NoCopy](extend/no-copy.md)
 
+# 工具和框架
 - [Go 模块](tools/go-modules.md)
 
 -----------

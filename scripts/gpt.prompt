@@ -1,0 +1,77 @@
+
+# Summary
+
+[Introduction](README.md)
+
+# User Guide
+
+- [Installation](guide/installation.md)
+    - This section covers the installation process for Go on different operating systems.
+- [Reading Books](guide/reading.md)
+    - Learn how to effectively read and comprehend Go programming books.
+- [Creating a Book](guide/creating.md)
+    - Explore the process of creating your own book or tutorial for learning Go.
+- [Setting Up Go Environment](guide/setup.md)
+    - Step-by-step guide to setting up the Go programming environment.
+
+# Language Fundamentals
+
+- [Variables and Constants](fundamentals/variables.md)
+    - Understanding how to declare and use variables and constants in Go.
+- [Data Types](fundamentals/data-types.md)
+    - An overview of various data types available in the Go programming language.
+- [Operators](fundamentals/operators.md)
+    - Exploring the different operators and their usage in Go.
+- [Control Flow](fundamentals/control-flow.md)
+    - Learning about control flow constructs such as loops and conditional statements in Go.
+- [Functions](fundamentals/functions.md)
+    - Detailed information on working with functions in Go.
+
+# Advanced Topics
+
+- [Structures](advanced/structures.md)
+    - Understanding the concept of structures and their implementation in Go.
+- [Pointers](advanced/pointers.md)
+    - Exploring the usage of pointers in Go and their importance.
+- [Interfaces](advanced/interfaces.md)
+    - Understanding interfaces and their role in Go programming.
+- [Concurrency](advanced/concurrency.md)
+    - An in-depth look at concurrency features in Go.
+
+# Standard Library
+
+- [fmt Package](library/fmt-package.md)
+    - Overview and usage examples of the fmt package for formatting I/O.
+- [strings Package](library/strings-package.md)
+    - Understanding and utilizing the strings package for string manipulation.
+- [io Package](library/io-package.md)
+    - Exploring the input/output functionalities provided by the io package.
+- [json Package](library/json-package.md)
+    - Working with JSON data using the json package.
+
+# Testing and Documentation
+
+- [Writing Tests](testing/writing-tests.md)
+    - Guidelines for writing effective tests for Go code.
+- [Benchmarking](testing/benchmarking.md)
+    - Understanding the process of benchmarking Go code for performance analysis.
+- [Documenting Code](documentation/documenting-code.md)
+    - Best practices for documenting Go code to ensure clarity and maintainability.
+
+# Tools and Frameworks
+
+- [Go Modules](tools/go-modules.md)
+    - Understanding and utilizing Go modules for managing dependencies.
+- [Package Management with Dep](tools/package-management.md)
+    - Exploring package management in Go using the Dep tool.
+- [Web Development with Gin](frameworks/gin.md)
+    - Introduction to web development in Go using the Gin framework.
+- [Database Access with GORM](frameworks/gorm.md)
+    - Working with databases in Go using the GORM framework.
+
+-----------
+
+[Contributors](misc/contributors.md)
+
+
+

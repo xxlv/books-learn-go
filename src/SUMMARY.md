@@ -26,6 +26,8 @@
 - [Init方法](advanced/init.md)
 - [Reflection](advanced/reflection.md)
 - [Expvar](advanced/expvar.md)
+- [Debug](advanced/debug.md)
+    - [General](advanced/pprof.md)
 
 
 # 标准库

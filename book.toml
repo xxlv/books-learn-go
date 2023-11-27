@@ -1,6 +1,6 @@
 [book]
-authors = ["lvxiangxiang"]
+authors = ["xxlv"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Learn go with examples"
+title = "Go语言实战:从入门到精通"

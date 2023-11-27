@@ -22,6 +22,8 @@
 - [指针](advanced/pointers.md)
 - [接口](advanced/interfaces.md)
 - [并发性](advanced/concurrency.md)
+- [Embed](advanced/embed.md)
+- [Init方法](advanced/init.md)
 
 # 标准库
 

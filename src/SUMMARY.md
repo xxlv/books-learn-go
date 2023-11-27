@@ -1,45 +1,45 @@
-# Summary
+# 概要
 
-[Introduction](README.md)
+[介绍](README.md)
 
-# User Guide
+# 用户指南
 
-- [Installation](guide/installation.md)
-- [Reading Books](guide/reading.md)
-- [Setting Up Go Environment](guide/setup.md)
+- [安装](guide/installation.md)
+- [阅读书籍](guide/reading.md)
+- [设置Go环境](guide/setup.md)
 
-# Language Fundamentals
+# 语言基础
 
-- [Variables and Constants](fundamentals/variables.md)
-- [Data Types](fundamentals/data-types.md)
-- [Operators](fundamentals/operators.md)
-- [Control Flow](fundamentals/control-flow.md)
-- [Functions](fundamentals/functions.md)
+- [变量和常量](fundamentals/variables.md)
+- [数据类型](fundamentals/data-types.md)
+- [运算符](fundamentals/operators.md)
+- [控制流](fundamentals/control-flow.md)
+- [函数](fundamentals/functions.md)
 
-# Advanced Topics
+# 高级主题
 
-- [Structures](advanced/structures.md)
-- [Pointers](advanced/pointers.md)
-- [Interfaces](advanced/interfaces.md)
-- [Concurrency](advanced/concurrency.md)
+- [结构体](advanced/structures.md)
+- [指针](advanced/pointers.md)
+- [接口](advanced/interfaces.md)
+- [并发性](advanced/concurrency.md)
 
-# Standard Library
+# 标准库
 
-- [fmt Package](library/fmt-package.md)
-- [strings Package](library/strings-package.md)
-- [io Package](library/io-package.md)
-- [json Package](library/json-package.md)
+- [fmt 包](library/fmt-package.md)
+- [strings 包](library/strings-package.md)
+- [io 包](library/io-package.md)
+- [json 包](library/json-package.md)
 
-# Testing and Documentation
+# 测试和文档
 
-- [Writing Tests](testing/writing-tests.md)
-- [Benchmarking](testing/benchmarking.md)
-- [Documenting Code](documentation/documenting-code.md)
+- [编写测试](testing/writing-tests.md)
+- [基准测试](testing/benchmarking.md)
+- [文档化代码](documentation/documenting-code.md)
 
-# Tools and Frameworks
+# 工具和框架
 
-- [Go Modules](tools/go-modules.md)
+- [Go 模块](tools/go-modules.md)
 
 -----------
 
-[Contributors](misc/contributors.md)
+[贡献者](misc/contributors.md)

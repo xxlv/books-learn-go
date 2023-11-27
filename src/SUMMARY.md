@@ -28,6 +28,7 @@
 - [Expvar](advanced/expvar.md)
 - [Debug](advanced/debug.md)
     - [General](advanced/pprof.md)
+    - [Dlv Debug Tool](advanced/dlv.md)
 
 
 # 标准库

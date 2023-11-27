@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f83c6284-618e-4459-a993-b113ef751642/deploy-status)](https://app.netlify.com/sites/precious-stardust-e30605/deploys)
+
 # Introduction
 
 ## 书籍摘要
